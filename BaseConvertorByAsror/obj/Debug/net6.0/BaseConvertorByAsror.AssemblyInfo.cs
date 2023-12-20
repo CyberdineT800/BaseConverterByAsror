@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BaseConvertorByAsror")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88fa39ded864a07ef133d8addde93b63e189609a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2eb367cea217e583bd5b4e2198c1d1ec1c8b07f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BaseConvertorByAsror")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BaseConvertorByAsror")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
